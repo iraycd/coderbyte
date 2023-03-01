@@ -1,0 +1,26 @@
+# Directories
+node_modules/
+dist/
+coverage/
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Compiled files
+*.js
+*.js.map
+
+# Dependencies
+yarn.lock
+
+# Configuration files
+tsconfig.tsbuildinfo
+.eslintcache
